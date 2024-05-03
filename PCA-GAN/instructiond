@@ -1,0 +1,3 @@
+to generate you should run generation_gan3 file, it will create and sace generated pca points. 
+Then you can run the recovery file which will create TS from the generated pca point and save the generated time series.
+You can assess the quality of the data and the valuation metrics running the file evaluation 2.
